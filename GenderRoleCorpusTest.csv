@@ -1,0 +1,32 @@
+TelCon,Content code,start,end,duration,content,topic
+F01,s,0,1.273,1.273,silence,other
+F01,p,1.273,1.581,0.308,rM,other
+F01,s,1.581,1.975,0.394,silence,other
+F01,p,1.975,2.479,0.504,cF,other
+F01,s,2.479,3.534,1.055,silence,other
+F01,p,3.534,3.851,0.317,rM,other
+F01,s,3.851,4.094,0.243,silence,other
+F01,l,4.094,5.056,0.962,laughter_cF,other
+F01,p l,5.056,5.215,0.159,cF laughter_rM,other
+F01,p,5.215,9.428,4.213,cF,other
+F01,s,9.428,9.918,0.49,silence,other
+F01,l,9.918,10.548,0.63,laughter_rM,other
+F01,p,10.548,11.78,1.232,rM,other
+F01,p,11.78,11.836,0.056,cF,other
+F01,p f,11.836,12.366,0.53,cF filler_rM,other
+F01,p,12.366,12.879,0.513,cF,other
+F01,s,12.879,13.598,0.719,silence,other
+F01,p,13.598,16.193,2.595,rM,other
+F01,p l,16.193,16.949,0.756,laughter_cF rM,other
+F01,l l,16.949,17.35,0.401,laughter_cF laughter_rM,other
+F01,l,17.35,18.619,1.269,laughter_cF,other
+F01,p,18.619,23.659,5.04,cF,other
+F01,s,23.659,24.079,0.42,silence,other
+F01,p,24.079,29.162,5.083,rM,other
+F01,s,29.162,29.856,0.694,silence,other
+F01,p,29.856,39.213,9.357,cF,other
+F01,p,39.213,39.639,0.426,rM,other
+F01,p p,39.639,40,0.361,cF rM,other
+F01,p,40,40.877,0.877,cF,other
+F01,s,40.877,41.866,0.989,silence,other
+F01,p,41.866,41.998,0.132,rM,other
